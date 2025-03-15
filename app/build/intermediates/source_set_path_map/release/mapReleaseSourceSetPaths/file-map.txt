@@ -1,0 +1,10 @@
+com.ivanbeltrame.www.twa.app-core-1.1.0-0 /root/.gradle/caches/8.8/transforms/2144911bb09dce3a07f407e3b390637e/transformed/core-1.1.0/res
+com.ivanbeltrame.www.twa.app-browser-1.4.0-1 /root/.gradle/caches/8.8/transforms/b511174c15fdde7dea3e957094b4390b/transformed/browser-1.4.0/res
+com.ivanbeltrame.www.twa.app-androidbrowserhelper-2.5.0-2 /root/.gradle/caches/8.8/transforms/d3335fbdff4200978ad121d7b141def7/transformed/androidbrowserhelper-2.5.0/res
+com.ivanbeltrame.www.twa.app-pngs-3 /tmp/pwabuilder-cloudapk--19-BZLlsG8XO3SH/app/build/generated/res/pngs/release
+com.ivanbeltrame.www.twa.app-resValues-4 /tmp/pwabuilder-cloudapk--19-BZLlsG8XO3SH/app/build/generated/res/resValues/release
+com.ivanbeltrame.www.twa.app-packageReleaseResources-5 /tmp/pwabuilder-cloudapk--19-BZLlsG8XO3SH/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.ivanbeltrame.www.twa.app-packageReleaseResources-6 /tmp/pwabuilder-cloudapk--19-BZLlsG8XO3SH/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.ivanbeltrame.www.twa.app-release-7 /tmp/pwabuilder-cloudapk--19-BZLlsG8XO3SH/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.ivanbeltrame.www.twa.app-main-8 /tmp/pwabuilder-cloudapk--19-BZLlsG8XO3SH/app/src/main/res
+com.ivanbeltrame.www.twa.app-release-9 /tmp/pwabuilder-cloudapk--19-BZLlsG8XO3SH/app/src/release/res
