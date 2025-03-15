@@ -70,19 +70,13 @@ android {
         def launchUrl = "https://" + twaManifest.hostName + twaManifest.launchUrl
         resValue "string", "launchUrl", launchUrl
 
-        
-            // The URL the Web Manifest for the Progressive Web App that the TWA points to. This
-            // is used by Chrome OS and Meta Quest to open the Web version of the PWA instead of
-            // the TWA, as it will probably give a better user experience for non-mobile devices.
-            resValue "string", "webManifestUrl", 'https://www.ivanbeltrame.com/manifest.json'
-        
+        // The URL the Web Manifest for the Progressive Web App that the TWA points to. This
+        // is used by Chrome OS and Meta Quest to open the Web version of the PWA instead of
+        // the TWA, as it will probably give a better user experience for non-mobile devices.
+        resValue "string", "webManifestUrl", 'https://www.ivanbeltrame.com/manifest.json'
 
-        
-            // This is used by Meta Quest.
-            resValue "string", "fullScopeUrl", 'https://www.ivanbeltrame.com/'
-        
-
-        
+        // This is used by Meta Quest.
+        resValue "string", "fullScopeUrl", 'https://www.ivanbeltrame.com/'
 
         // The hostname is used when building the intent-filter, so the TWA is able to
         // handle Intents to open host url of the application.
@@ -198,12 +192,9 @@ task generateShorcutsFile {
 preBuild.dependsOn(generateShorcutsFile)
 
 repositories {
-    
 }
 
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
-    
-        implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.5.0'
-    
+    implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.5.0'
 }

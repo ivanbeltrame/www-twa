@@ -15,8 +15,6 @@
      limitations under the License.
 -->
 <resources>
-  
-
   <!--
     This variable below expresses the relationship between the app and the site,
     as documented in the TWA documentation at
