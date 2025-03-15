@@ -28,6 +28,7 @@ int color notification_icon_bg_color 0x7f03000c
 int color ripple_material_light 0x7f03000d
 int color secondary_text_default_material_light 0x7f03000e
 int color shortcut_background 0x7f03000f
+int color splash_background 0x7f030010
 int dimen browser_actions_context_menu_max_width 0x7f040000
 int dimen browser_actions_context_menu_min_padding 0x7f040001
 int dimen compat_button_inset_horizontal_material 0x7f040002
@@ -67,7 +68,6 @@ int drawable notification_template_icon_low_bg 0x7f05000c
 int drawable notification_tile_bg 0x7f05000d
 int drawable notify_panel_notification_icon_bg 0x7f05000e
 int drawable shortcut_legacy_background 0x7f05000f
-int drawable splash 0x7f050010
 int id accessibility_action_clickable_span 0x7f060000
 int id accessibility_custom_action_0 0x7f060001
 int id accessibility_custom_action_1 0x7f060002
@@ -153,6 +153,9 @@ int layout notification_template_part_chronometer 0x7f080007
 int layout notification_template_part_time 0x7f080008
 int mipmap ic_launcher 0x7f090000
 int mipmap ic_maskable 0x7f090001
+int mipmap splash 0x7f090002
+int mipmap splash_foreground 0x7f090003
+int mipmap splash_round 0x7f090004
 int raw web_app_manifest 0x7f0a0000
 int string appName 0x7f0b0000
 int string app_name 0x7f0b0001

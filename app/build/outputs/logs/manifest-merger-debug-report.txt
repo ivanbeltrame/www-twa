@@ -153,9 +153,9 @@ ADDED from C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src
 	android:name
 		ADDED from C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:82:17-89
 meta-data#android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE
-ADDED from C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:84:13-85:54
+ADDED from C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:84:13-85:52
 	android:resource
-		ADDED from C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:85:17-52
+		ADDED from C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:85:17-50
 	android:name
 		ADDED from C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:84:24-95
 meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR

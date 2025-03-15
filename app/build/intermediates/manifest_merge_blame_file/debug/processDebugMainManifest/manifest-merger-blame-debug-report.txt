@@ -179,11 +179,11 @@
 109                android:resource="@color/navigationDividerColorDark" />
 109-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:83:17-69
 110            <meta-data
-110-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:84:13-85:54
+110-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:84:13-85:52
 111                android:name="android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE"
 111-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:84:24-95
-112                android:resource="@drawable/splash" />
-112-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:85:17-52
+112                android:resource="@mipmap/splash" />
+112-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:85:17-50
 113            <meta-data
 113-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:86:13-87:60
 114                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR"
