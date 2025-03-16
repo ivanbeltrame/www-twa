@@ -10,6 +10,7 @@
     <color name="navigationDividerColor">#0D6EFD</color>
     <color name="navigationDividerColorDark">#0D6EFD</color>
     <color name="shortcut_background">#F5F5F5</color>
+    <color name="splash_background">#A1D3FD</color>
     <integer name="splashScreenFadeOutDuration">200</integer>
     <string name="appName" translatable="false">Ivan Beltrame</string>
     <string name="assetStatements">

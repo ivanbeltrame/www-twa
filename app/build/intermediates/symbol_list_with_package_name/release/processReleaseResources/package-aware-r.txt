@@ -29,6 +29,7 @@ color notification_icon_bg_color
 color ripple_material_light
 color secondary_text_default_material_light
 color shortcut_background
+color splash_background
 dimen browser_actions_context_menu_max_width
 dimen browser_actions_context_menu_min_padding
 dimen compat_button_inset_horizontal_material
@@ -68,7 +69,6 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable shortcut_legacy_background
-drawable splash
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -154,6 +154,9 @@ layout notification_template_part_chronometer
 layout notification_template_part_time
 mipmap ic_launcher
 mipmap ic_maskable
+mipmap splash
+mipmap splash_foreground
+mipmap splash_round
 raw web_app_manifest
 string appName
 string app_name

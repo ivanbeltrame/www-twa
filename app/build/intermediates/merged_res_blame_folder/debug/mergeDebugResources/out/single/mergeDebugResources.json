@@ -1,23 +1,7 @@
 [
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\xml_filepaths.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\xml\\filepaths.xml"
-    },
-    {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\xml_shortcuts.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\xml\\shortcuts.xml"
-    },
-    {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\raw_web_app_manifest.json.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\raw\\web_app_manifest.json"
-    },
-    {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xxxhdpi_ic_maskable.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-xxxhdpi/ic_maskable.png"
     },
     {
         "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xxxhdpi_splash_foreground.webp.flat",
@@ -32,24 +16,36 @@
         "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-hdpi/splash_round.webp"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\drawable-xhdpi_ic_notification_icon.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\drawable-xhdpi\\ic_notification_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/xml_filepaths.xml.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/xml/filepaths.xml"
     },
     {
         "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xxhdpi_splash_round.webp.flat",
         "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-xxhdpi/splash_round.webp"
     },
     {
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xhdpi_splash_foreground.webp.flat",
         "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-xhdpi/splash_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/drawable-anydpi_shortcut_legacy_background.xml.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/drawable-anydpi/shortcut_legacy_background.xml"
+    },
+    {
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/drawable-xxxhdpi_ic_notification_icon.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/drawable-xxxhdpi/ic_notification_icon.png"
+    },
+    {
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/raw_web_app_manifest.json.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/raw/web_app_manifest.json"
+    },
+    {
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-mdpi_splash_round.webp.flat",
@@ -60,12 +56,12 @@
         "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-xxhdpi/splash_foreground.webp"
     },
     {
-        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-hdpi_splash_foreground.webp.flat",
-        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-hdpi/splash_foreground.webp"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-hdpi_ic_maskable.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-hdpi/ic_maskable.png"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\drawable-anydpi_shortcut_legacy_background.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\drawable-anydpi\\shortcut_legacy_background.xml"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-hdpi_splash_foreground.webp.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-hdpi/splash_foreground.webp"
     },
     {
         "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xhdpi_splash_round.webp.flat",
@@ -80,76 +76,56 @@
         "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-hdpi/splash.webp"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\mipmap-xhdpi_ic_maskable.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\mipmap-xhdpi\\ic_maskable.png"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/drawable-xxhdpi_ic_notification_icon.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/drawable-xxhdpi/ic_notification_icon.png"
+    },
+    {
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xxhdpi_ic_maskable.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-xxhdpi/ic_maskable.png"
     },
     {
         "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xhdpi_splash.webp.flat",
         "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-xhdpi/splash.webp"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\mipmap-hdpi_ic_maskable.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\mipmap-hdpi\\ic_maskable.png"
-    },
-    {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\mipmap-xxxhdpi_ic_maskable.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\mipmap-xxxhdpi\\ic_maskable.png"
-    },
-    {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\drawable-xhdpi_splash.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\drawable-xhdpi\\splash.png"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
         "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xxxhdpi_splash.webp.flat",
         "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-xxxhdpi/splash.webp"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-mdpi_ic_maskable.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-mdpi/ic_maskable.png"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\drawable-mdpi_ic_notification_icon.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\drawable-mdpi\\ic_notification_icon.png"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\drawable-hdpi_ic_notification_icon.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\drawable-hdpi\\ic_notification_icon.png"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xhdpi_ic_maskable.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-xhdpi/ic_maskable.png"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\mipmap-mdpi_ic_maskable.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\mipmap-mdpi\\ic_maskable.png"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/drawable-mdpi_ic_notification_icon.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/drawable-mdpi/ic_notification_icon.png"
     },
     {
         "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-anydpi-v26_splash_round.xml.flat",
         "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-anydpi-v26/splash_round.xml"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\drawable-xxxhdpi_splash.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\drawable-xxxhdpi\\splash.png"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\drawable-hdpi_splash.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\drawable-hdpi\\splash.png"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/drawable-xhdpi_ic_notification_icon.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/drawable-xhdpi/ic_notification_icon.png"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\drawable-mdpi_splash.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\drawable-mdpi\\splash.png"
-    },
-    {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\drawable-xxxhdpi_ic_notification_icon.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\drawable-xxxhdpi\\ic_notification_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\drawable-xxhdpi_ic_notification_icon.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\drawable-xxhdpi\\ic_notification_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\mipmap-xxhdpi_ic_maskable.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\mipmap-xxhdpi\\ic_maskable.png"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/drawable-hdpi_ic_notification_icon.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/drawable-hdpi/ic_notification_icon.png"
     },
     {
         "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-anydpi-v26_splash.xml.flat",
@@ -160,8 +136,12 @@
         "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-xxhdpi/splash.webp"
     },
     {
-        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-debug-7:\\drawable-xxhdpi_splash.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\8.8\\com.ivanbeltrame.www.twa.app-main-9:\\drawable-xxhdpi\\splash.png"
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/xml_shortcuts.xml.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/xml/shortcuts.xml"
+    },
+    {
+        "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.ivanbeltrame.www.twa.app-main-9:/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "com.ivanbeltrame.www.twa.app-debug-7:/mipmap-xxxhdpi_splash_round.webp.flat",

@@ -4,7 +4,7 @@
             "outputFile": "com.ivanbeltrame.www.twa.app-mergeDebugResources-5:/values-cs/values-cs.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ivan\\.gradle\\caches\\8.8\\transforms\\b511174c15fdde7dea3e957094b4390b\\transformed\\browser-1.4.0\\res\\values-cs\\values-cs.xml",
+                    "source": "C:\\Users\\Ivan\\.gradle\\caches\\8.11.1\\transforms\\444121e9c98b79aa4d75d0c3f9151834\\transformed\\browser-1.4.0\\res\\values-cs\\values-cs.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ivan\\.gradle\\caches\\8.8\\transforms\\2144911bb09dce3a07f407e3b390637e\\transformed\\core-1.1.0\\res\\values-cs\\values-cs.xml",
+                    "source": "C:\\Users\\Ivan\\.gradle\\caches\\8.11.1\\transforms\\efdeb8acec33ad965b6486c5a509232b\\transformed\\core-1.1.0\\res\\values-cs\\values-cs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
