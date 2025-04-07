@@ -27,7 +27,7 @@
     <string name="fullScopeUrl" translatable="false">https://www.ivanbeltrame.com/</string>
     <string name="generatorApp" translatable="false">PWABuilder</string>
     <string name="hostName" translatable="false">www.ivanbeltrame.com</string>
-    <string name="launchUrl" translatable="false">https://www.ivanbeltrame.com/?pwa=home</string>
+    <string name="launchUrl" translatable="false">https://www.ivanbeltrame.com/?pwa=twa-home</string>
     <string name="launcherName" translatable="false">Ivan Beltrame</string>
     <string name="orientation" translatable="false">default</string>
     <string name="providerAuthority" translatable="false">com.ivanbeltrame.www.twa.fileprovider</string>
