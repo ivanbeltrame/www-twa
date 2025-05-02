@@ -176,6 +176,14 @@ string manage_space_not_supported_toast
 string no_provider_toast
 string orientation
 string providerAuthority
+string shortcut_name_0
+string shortcut_name_1
+string shortcut_name_2
+string shortcut_name_3
+string shortcut_short_name_0
+string shortcut_short_name_1
+string shortcut_short_name_2
+string shortcut_short_name_3
 string status_bar_notification_info_overflow
 string update_chrome_toast
 string webManifestUrl

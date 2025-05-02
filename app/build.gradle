@@ -39,7 +39,27 @@ def twaManifest = [
     // - short_name: Shorter string used if |name| is too long.
     // - url: Absolute path of the URL to launch the app with (e.g '/create').
     // - icon: Name of the resource in the drawable folder to use as an icon.
-    shortcuts: [],
+    shortcuts: [[
+            name: "Home",
+            short_name: "Home",
+            url: "/?pwa=twa-home",
+            icon: "ic_notification_icon"
+    ],[
+            name: "Certificati",
+            short_name: "Certificati",
+            url: "/certificati?pwa=twa-certificati",
+            icon: "ic_notification_icon"
+    ],[
+            name: "Progetti",
+            short_name: "Progetti",
+            url: "/projects?pwa=twa-projects",
+            icon: "ic_notification_icon"
+    ],[
+            name: "Contatti",
+            short_name: "Contatti",
+            url: "/contatti?pwa=twa-contatti",
+            icon: "ic_notification_icon"
+    ]],
     // The duration of fade out animation in milliseconds to be played when removing splash screen.
     splashScreenFadeOutDuration: 200,
     generatorApp: 'PWABuilder', // Application that generated the Android Project
@@ -55,10 +75,10 @@ android {
     namespace "com.ivanbeltrame.www.twa"
     defaultConfig {
         applicationId "com.ivanbeltrame.www.twa"
-        minSdkVersion 24
+        minSdkVersion 25
         targetSdkVersion 35
-        versionCode 3
-        versionName "1.0.2"
+        versionCode 5
+        versionName "1.1.0"
 
         // The name for the application
         resValue "string", "appName", twaManifest.name
@@ -182,7 +202,8 @@ tasks.register('generateShorcutsFile') {
                                 'android:action': 'android.intent.action.MAIN',
                                 'android:targetPackage': twaManifest.applicationId,
                                 'android:targetClass': twaManifest.applicationId + '.LauncherActivity',
-                                'android:data': s.url)
+                                'android:data': "https://${twaManifest.hostName}${s.url}"
+                        )
                         'categories'('android:name': 'android.intent.category.LAUNCHER')
                     }
                 }

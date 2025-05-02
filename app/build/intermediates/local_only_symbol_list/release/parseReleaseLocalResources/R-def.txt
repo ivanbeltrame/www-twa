@@ -30,6 +30,14 @@ string launchUrl
 string launcherName
 string orientation
 string providerAuthority
+string shortcut_name_0
+string shortcut_name_1
+string shortcut_name_2
+string shortcut_name_3
+string shortcut_short_name_0
+string shortcut_short_name_1
+string shortcut_short_name_2
+string shortcut_short_name_3
 string webManifestUrl
 xml filepaths
 xml shortcuts

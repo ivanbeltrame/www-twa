@@ -120,6 +120,14 @@
     <string name="no_provider_toast">Please install Chrome Stable 72 or later.</string>
     <string name="orientation" translatable="false">default</string>
     <string name="providerAuthority" translatable="false">com.ivanbeltrame.www.twa.fileprovider</string>
+    <string name="shortcut_name_0" translatable="false">Home</string>
+    <string name="shortcut_name_1" translatable="false">Certificati</string>
+    <string name="shortcut_name_2" translatable="false">Progetti</string>
+    <string name="shortcut_name_3" translatable="false">Contatti</string>
+    <string name="shortcut_short_name_0" translatable="false">Home</string>
+    <string name="shortcut_short_name_1" translatable="false">Certificati</string>
+    <string name="shortcut_short_name_2" translatable="false">Progetti</string>
+    <string name="shortcut_short_name_3" translatable="false">Contatti</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="update_chrome_toast">Please update to Chrome Stable 72 or later.</string>
     <string name="webManifestUrl" translatable="false">https://www.ivanbeltrame.com/manifest.json</string>
