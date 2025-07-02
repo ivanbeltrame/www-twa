@@ -85,230 +85,231 @@
 60-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:38:9-40
 61        android:supportsRtl="true"
 61-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:40:9-35
-62        android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-62-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:41:9-68
-63        <meta-data
-63-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:42:9-44:58
-64            android:name="asset_statements"
-64-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:43:13-44
-65            android:resource="@string/assetStatements" />
-65-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:44:13-55
-66        <meta-data
-66-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:45:9-47:54
-67            android:name="web_manifest_url"
-67-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:46:13-44
-68            android:value="@string/webManifestUrl" />
-68-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:47:13-51
-69        <meta-data
-69-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:48:9-50:52
-70            android:name="twa_generator"
-70-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:49:13-41
-71            android:value="@string/generatorApp" />
-71-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:50:13-49
-72        <meta-data
-72-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:51:9-53:47
-73            android:name="com.oculus.pwa.NAME"
-73-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:52:13-47
-74            android:value="@string/appName" />
-74-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:53:13-44
-75        <meta-data
-75-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:54:9-56:49
-76            android:name="com.oculus.pwa.START_URL"
-76-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:55:13-52
-77            android:value="@string/launchUrl" />
-77-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:56:13-46
-78        <meta-data
-78-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:57:9-59:52
-79            android:name="com.oculus.pwa.SCOPE"
-79-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:58:13-48
-80            android:value="@string/fullScopeUrl" />
-80-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:59:13-49
-81
-82        <activity
-82-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:60:9-108:20
-83            android:name="com.ivanbeltrame.www.twa.LauncherActivity"
-83-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:60:19-50
-84            android:alwaysRetainTaskState="true"
-84-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:61:13-49
-85            android:exported="true"
-85-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:63:13-36
-86            android:label="@string/launcherName" >
-86-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:62:13-49
-87            <meta-data
-87-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:64:13-65:53
-88                android:name="android.support.customtabs.trusted.DEFAULT_URL"
-88-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:64:24-85
-89                android:value="@string/launchUrl" />
-89-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:65:17-50
-90            <meta-data
-90-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:66:13-68:58
-91                android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR"
-91-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:67:17-83
-92                android:resource="@color/colorPrimary" />
-92-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:68:17-55
-93            <meta-data
-93-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:69:13-71:62
-94                android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR_DARK"
-94-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:70:17-88
-95                android:resource="@color/colorPrimaryDark" />
-95-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:71:17-59
-96            <meta-data
-96-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:72:13-74:61
-97                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR"
-97-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:73:17-87
-98                android:resource="@color/navigationColor" />
-98-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:74:17-58
-99            <meta-data
-99-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:75:13-77:65
-100                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK"
-100-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:76:17-92
-101                android:resource="@color/navigationColorDark" />
-101-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:77:17-62
-102            <meta-data
-102-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:78:13-80:68
-103                android:name="androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR"
-103-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:79:17-84
-104                android:resource="@color/navigationDividerColor" />
-104-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:80:17-65
-105            <meta-data
-105-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:81:13-83:72
-106                android:name="androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR_DARK"
-106-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:82:17-89
-107                android:resource="@color/navigationDividerColorDark" />
-107-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:83:17-69
-108            <meta-data
-108-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:84:13-85:52
-109                android:name="android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE"
-109-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:84:24-95
-110                android:resource="@mipmap/splash" />
-110-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:85:17-50
-111            <meta-data
-111-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:86:13-87:60
-112                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR"
-112-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:86:24-104
-113                android:resource="@color/backgroundColor" />
-113-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:87:17-58
-114            <meta-data
-114-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:88:13-89:71
-115                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION"
-115-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:88:24-105
-116                android:value="@integer/splashScreenFadeOutDuration" />
-116-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:89:17-69
-117            <meta-data
-117-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:90:13-91:60
-118                android:name="android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY"
-118-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:90:24-97
-119                android:value="@string/providerAuthority" />
-119-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:91:17-58
-120            <meta-data
-120-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:92:13-97
-121                android:name="android.app.shortcuts"
-121-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:92:24-60
-122                android:resource="@xml/shortcuts" />
-122-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:92:61-94
-123            <meta-data
-123-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:93:13-94:56
-124                android:name="android.support.customtabs.trusted.FALLBACK_STRATEGY"
-124-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:93:24-91
-125                android:value="@string/fallbackType" />
-125-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:94:17-53
-126            <meta-data
-126-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:95:13-96:54
-127                android:name="android.support.customtabs.trusted.SCREEN_ORIENTATION"
-127-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:95:24-92
-128                android:value="@string/orientation" />
-128-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:96:17-52
-129
-130            <intent-filter>
-130-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:97:13-100:29
-131                <action android:name="android.intent.action.MAIN" />
-131-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:98:17-69
-131-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:98:25-66
-132
-133                <category android:name="android.intent.category.LAUNCHER" />
-133-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:99:17-77
-133-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:99:27-74
-134            </intent-filter>
-135            <intent-filter android:autoVerify="true" >
-135-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:101:13-107:29
-135-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:101:28-53
-136                <action android:name="android.intent.action.VIEW" />
-136-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:102:17-68
-136-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:102:25-66
-137
-138                <category android:name="android.intent.category.DEFAULT" />
-138-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:103:17-76
-138-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:103:27-73
-139                <category android:name="android.intent.category.BROWSABLE" />
-139-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:104:17-77
-139-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:104:27-75
-140
-141                <data
-141-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:105:17-106:54
-142                    android:host="@string/hostName"
-142-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:106:21-52
-143                    android:scheme="https" />
-143-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:105:23-45
-144            </intent-filter>
-145        </activity>
-146        <activity android:name="com.google.androidbrowserhelper.trusted.FocusActivity" />
-146-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:109:9-90
-146-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:109:19-87
-147        <activity
-147-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:110:9-111:62
-148            android:name="com.google.androidbrowserhelper.trusted.WebViewFallbackActivity"
-148-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:110:19-97
-149            android:configChanges="orientation|screenSize" />
-149-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:111:13-59
-150
-151        <provider
-151-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:112:9-120:20
-152            android:name="androidx.core.content.FileProvider"
-152-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:113:13-62
-153            android:authorities="@string/providerAuthority"
-153-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:114:13-60
-154            android:exported="false"
-154-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:116:13-37
-155            android:grantUriPermissions="true" >
-155-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:115:13-47
-156            <meta-data
-156-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:117:13-119:53
-157                android:name="android.support.FILE_PROVIDER_PATHS"
-157-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:118:17-67
-158                android:resource="@xml/filepaths" />
-158-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:119:17-50
-159        </provider>
-160
-161        <service
-161-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:121:9-132:19
-162            android:name="com.ivanbeltrame.www.twa.DelegationService"
-162-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:122:13-46
-163            android:enabled="@bool/enableNotification"
-163-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:123:13-55
-164            android:exported="@bool/enableNotification" >
-164-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:124:13-56
-165            <meta-data
-165-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:125:13-127:69
-166                android:name="android.support.customtabs.trusted.SMALL_ICON"
-166-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:126:17-77
-167                android:resource="@drawable/ic_notification_icon" />
-167-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:127:17-66
-168
-169            <intent-filter>
-169-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:128:13-131:29
-170                <action android:name="android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE" />
-170-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:129:17-105
-170-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:129:25-103
-171
-172                <category android:name="android.intent.category.DEFAULT" />
-172-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:103:17-76
-172-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:103:27-73
-173            </intent-filter>
-174        </service>
-175
-176        <activity android:name="com.google.androidbrowserhelper.trusted.NotificationPermissionRequestActivity" />
-176-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:133:9-114
-176-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:133:19-111
-177    </application>
-178
-179</manifest>
+62        android:testOnly="true"
+63        android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+63-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:41:9-68
+64        <meta-data
+64-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:42:9-44:58
+65            android:name="asset_statements"
+65-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:43:13-44
+66            android:resource="@string/assetStatements" />
+66-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:44:13-55
+67        <meta-data
+67-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:45:9-47:54
+68            android:name="web_manifest_url"
+68-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:46:13-44
+69            android:value="@string/webManifestUrl" />
+69-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:47:13-51
+70        <meta-data
+70-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:48:9-50:52
+71            android:name="twa_generator"
+71-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:49:13-41
+72            android:value="@string/generatorApp" />
+72-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:50:13-49
+73        <meta-data
+73-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:51:9-53:47
+74            android:name="com.oculus.pwa.NAME"
+74-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:52:13-47
+75            android:value="@string/appName" />
+75-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:53:13-44
+76        <meta-data
+76-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:54:9-56:49
+77            android:name="com.oculus.pwa.START_URL"
+77-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:55:13-52
+78            android:value="@string/launchUrl" />
+78-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:56:13-46
+79        <meta-data
+79-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:57:9-59:52
+80            android:name="com.oculus.pwa.SCOPE"
+80-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:58:13-48
+81            android:value="@string/fullScopeUrl" />
+81-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:59:13-49
+82
+83        <activity
+83-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:60:9-108:20
+84            android:name="com.ivanbeltrame.www.twa.LauncherActivity"
+84-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:60:19-50
+85            android:alwaysRetainTaskState="true"
+85-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:61:13-49
+86            android:exported="true"
+86-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:63:13-36
+87            android:label="@string/launcherName" >
+87-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:62:13-49
+88            <meta-data
+88-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:64:13-65:53
+89                android:name="android.support.customtabs.trusted.DEFAULT_URL"
+89-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:64:24-85
+90                android:value="@string/launchUrl" />
+90-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:65:17-50
+91            <meta-data
+91-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:66:13-68:58
+92                android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR"
+92-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:67:17-83
+93                android:resource="@color/colorPrimary" />
+93-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:68:17-55
+94            <meta-data
+94-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:69:13-71:62
+95                android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR_DARK"
+95-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:70:17-88
+96                android:resource="@color/colorPrimaryDark" />
+96-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:71:17-59
+97            <meta-data
+97-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:72:13-74:61
+98                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR"
+98-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:73:17-87
+99                android:resource="@color/navigationColor" />
+99-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:74:17-58
+100            <meta-data
+100-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:75:13-77:65
+101                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK"
+101-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:76:17-92
+102                android:resource="@color/navigationColorDark" />
+102-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:77:17-62
+103            <meta-data
+103-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:78:13-80:68
+104                android:name="androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR"
+104-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:79:17-84
+105                android:resource="@color/navigationDividerColor" />
+105-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:80:17-65
+106            <meta-data
+106-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:81:13-83:72
+107                android:name="androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR_DARK"
+107-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:82:17-89
+108                android:resource="@color/navigationDividerColorDark" />
+108-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:83:17-69
+109            <meta-data
+109-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:84:13-85:52
+110                android:name="android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE"
+110-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:84:24-95
+111                android:resource="@mipmap/splash" />
+111-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:85:17-50
+112            <meta-data
+112-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:86:13-87:60
+113                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR"
+113-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:86:24-104
+114                android:resource="@color/backgroundColor" />
+114-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:87:17-58
+115            <meta-data
+115-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:88:13-89:71
+116                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION"
+116-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:88:24-105
+117                android:value="@integer/splashScreenFadeOutDuration" />
+117-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:89:17-69
+118            <meta-data
+118-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:90:13-91:60
+119                android:name="android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY"
+119-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:90:24-97
+120                android:value="@string/providerAuthority" />
+120-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:91:17-58
+121            <meta-data
+121-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:92:13-97
+122                android:name="android.app.shortcuts"
+122-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:92:24-60
+123                android:resource="@xml/shortcuts" />
+123-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:92:61-94
+124            <meta-data
+124-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:93:13-94:56
+125                android:name="android.support.customtabs.trusted.FALLBACK_STRATEGY"
+125-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:93:24-91
+126                android:value="@string/fallbackType" />
+126-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:94:17-53
+127            <meta-data
+127-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:95:13-96:54
+128                android:name="android.support.customtabs.trusted.SCREEN_ORIENTATION"
+128-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:95:24-92
+129                android:value="@string/orientation" />
+129-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:96:17-52
+130
+131            <intent-filter>
+131-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:97:13-100:29
+132                <action android:name="android.intent.action.MAIN" />
+132-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:98:17-69
+132-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:98:25-66
+133
+134                <category android:name="android.intent.category.LAUNCHER" />
+134-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:99:17-77
+134-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:99:27-74
+135            </intent-filter>
+136            <intent-filter android:autoVerify="true" >
+136-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:101:13-107:29
+136-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:101:28-53
+137                <action android:name="android.intent.action.VIEW" />
+137-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:102:17-68
+137-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:102:25-66
+138
+139                <category android:name="android.intent.category.DEFAULT" />
+139-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:103:17-76
+139-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:103:27-73
+140                <category android:name="android.intent.category.BROWSABLE" />
+140-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:104:17-77
+140-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:104:27-75
+141
+142                <data
+142-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:105:17-106:54
+143                    android:host="@string/hostName"
+143-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:106:21-52
+144                    android:scheme="https" />
+144-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:105:23-45
+145            </intent-filter>
+146        </activity>
+147        <activity android:name="com.google.androidbrowserhelper.trusted.FocusActivity" />
+147-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:109:9-90
+147-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:109:19-87
+148        <activity
+148-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:110:9-111:62
+149            android:name="com.google.androidbrowserhelper.trusted.WebViewFallbackActivity"
+149-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:110:19-97
+150            android:configChanges="orientation|screenSize" />
+150-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:111:13-59
+151
+152        <provider
+152-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:112:9-120:20
+153            android:name="androidx.core.content.FileProvider"
+153-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:113:13-62
+154            android:authorities="@string/providerAuthority"
+154-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:114:13-60
+155            android:exported="false"
+155-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:116:13-37
+156            android:grantUriPermissions="true" >
+156-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:115:13-47
+157            <meta-data
+157-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:117:13-119:53
+158                android:name="android.support.FILE_PROVIDER_PATHS"
+158-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:118:17-67
+159                android:resource="@xml/filepaths" />
+159-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:119:17-50
+160        </provider>
+161
+162        <service
+162-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:121:9-132:19
+163            android:name="com.ivanbeltrame.www.twa.DelegationService"
+163-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:122:13-46
+164            android:enabled="@bool/enableNotification"
+164-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:123:13-55
+165            android:exported="@bool/enableNotification" >
+165-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:124:13-56
+166            <meta-data
+166-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:125:13-127:69
+167                android:name="android.support.customtabs.trusted.SMALL_ICON"
+167-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:126:17-77
+168                android:resource="@drawable/ic_notification_icon" />
+168-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:127:17-66
+169
+170            <intent-filter>
+170-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:128:13-131:29
+171                <action android:name="android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE" />
+171-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:129:17-105
+171-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:129:25-103
+172
+173                <category android:name="android.intent.category.DEFAULT" />
+173-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:103:17-76
+173-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:103:27-73
+174            </intent-filter>
+175        </service>
+176
+177        <activity android:name="com.google.androidbrowserhelper.trusted.NotificationPermissionRequestActivity" />
+177-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:133:9-114
+177-->C:\Users\Ivan\Desktop\www-twa\Ivan Beltrame-standalone\source\app\src\main\AndroidManifest.xml:133:19-111
+178    </application>
+179
+180</manifest>

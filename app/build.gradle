@@ -52,7 +52,7 @@ def twaManifest = [
     ],[
             name: "Progetti",
             short_name: "Progetti",
-            url: "/projects?pwa=twa-projects",
+            url: "/progetti?pwa=twa-progetti",
             icon: "ic_notification_icon"
     ],[
             name: "Contatti",

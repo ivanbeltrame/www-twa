@@ -8,7 +8,7 @@
         <categories android:name='android.intent.category.LAUNCHER' />
     </shortcut>
     <shortcut android:shortcutId='shortcut2' android:enabled='true' android:icon='@drawable/ic_notification_icon' android:shortcutShortLabel='@string/shortcut_short_name_2' android:shortcutLongLabel='@string/shortcut_name_2'>
-        <intent android:action='android.intent.action.MAIN' android:targetPackage='com.ivanbeltrame.www.twa' android:targetClass='com.ivanbeltrame.www.twa.LauncherActivity' android:data='https://www.ivanbeltrame.com/projects?pwa=twa-projects' />
+        <intent android:action='android.intent.action.MAIN' android:targetPackage='com.ivanbeltrame.www.twa' android:targetClass='com.ivanbeltrame.www.twa.LauncherActivity' android:data='https://www.ivanbeltrame.com/progetti?pwa=twa-progetti' />
         <categories android:name='android.intent.category.LAUNCHER' />
     </shortcut>
     <shortcut android:shortcutId='shortcut3' android:enabled='true' android:icon='@drawable/ic_notification_icon' android:shortcutShortLabel='@string/shortcut_short_name_3' android:shortcutLongLabel='@string/shortcut_name_3'>
